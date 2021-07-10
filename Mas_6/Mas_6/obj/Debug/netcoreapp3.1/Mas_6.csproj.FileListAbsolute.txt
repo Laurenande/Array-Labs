@@ -1,0 +1,11 @@
+C:\Users\mine-\Desktop\Study\Уник\Программы\Массивы\Mas_6\Mas_6\bin\Debug\netcoreapp3.1\Mas_6.exe
+C:\Users\mine-\Desktop\Study\Уник\Программы\Массивы\Mas_6\Mas_6\bin\Debug\netcoreapp3.1\Mas_6.deps.json
+C:\Users\mine-\Desktop\Study\Уник\Программы\Массивы\Mas_6\Mas_6\bin\Debug\netcoreapp3.1\Mas_6.runtimeconfig.json
+C:\Users\mine-\Desktop\Study\Уник\Программы\Массивы\Mas_6\Mas_6\bin\Debug\netcoreapp3.1\Mas_6.runtimeconfig.dev.json
+C:\Users\mine-\Desktop\Study\Уник\Программы\Массивы\Mas_6\Mas_6\bin\Debug\netcoreapp3.1\Mas_6.dll
+C:\Users\mine-\Desktop\Study\Уник\Программы\Массивы\Mas_6\Mas_6\bin\Debug\netcoreapp3.1\Mas_6.pdb
+C:\Users\mine-\Desktop\Study\Уник\Программы\Массивы\Mas_6\Mas_6\obj\Debug\netcoreapp3.1\Mas_6.csprojAssemblyReference.cache
+C:\Users\mine-\Desktop\Study\Уник\Программы\Массивы\Mas_6\Mas_6\obj\Debug\netcoreapp3.1\Mas_6.AssemblyInfoInputs.cache
+C:\Users\mine-\Desktop\Study\Уник\Программы\Массивы\Mas_6\Mas_6\obj\Debug\netcoreapp3.1\Mas_6.AssemblyInfo.cs
+C:\Users\mine-\Desktop\Study\Уник\Программы\Массивы\Mas_6\Mas_6\obj\Debug\netcoreapp3.1\Mas_6.dll
+C:\Users\mine-\Desktop\Study\Уник\Программы\Массивы\Mas_6\Mas_6\obj\Debug\netcoreapp3.1\Mas_6.pdb

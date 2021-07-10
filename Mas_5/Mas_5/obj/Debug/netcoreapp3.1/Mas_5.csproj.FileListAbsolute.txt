@@ -1,0 +1,11 @@
+C:\Users\mine-\Desktop\Study\Уник\Программы\Массивы\Mas_5\Mas_5\bin\Debug\netcoreapp3.1\Mas_5.exe
+C:\Users\mine-\Desktop\Study\Уник\Программы\Массивы\Mas_5\Mas_5\bin\Debug\netcoreapp3.1\Mas_5.deps.json
+C:\Users\mine-\Desktop\Study\Уник\Программы\Массивы\Mas_5\Mas_5\bin\Debug\netcoreapp3.1\Mas_5.runtimeconfig.json
+C:\Users\mine-\Desktop\Study\Уник\Программы\Массивы\Mas_5\Mas_5\bin\Debug\netcoreapp3.1\Mas_5.runtimeconfig.dev.json
+C:\Users\mine-\Desktop\Study\Уник\Программы\Массивы\Mas_5\Mas_5\bin\Debug\netcoreapp3.1\Mas_5.dll
+C:\Users\mine-\Desktop\Study\Уник\Программы\Массивы\Mas_5\Mas_5\bin\Debug\netcoreapp3.1\Mas_5.pdb
+C:\Users\mine-\Desktop\Study\Уник\Программы\Массивы\Mas_5\Mas_5\obj\Debug\netcoreapp3.1\Mas_5.AssemblyInfoInputs.cache
+C:\Users\mine-\Desktop\Study\Уник\Программы\Массивы\Mas_5\Mas_5\obj\Debug\netcoreapp3.1\Mas_5.AssemblyInfo.cs
+C:\Users\mine-\Desktop\Study\Уник\Программы\Массивы\Mas_5\Mas_5\obj\Debug\netcoreapp3.1\Mas_5.dll
+C:\Users\mine-\Desktop\Study\Уник\Программы\Массивы\Mas_5\Mas_5\obj\Debug\netcoreapp3.1\Mas_5.pdb
+C:\Users\mine-\Desktop\Study\Уник\Программы\Массивы\Mas_5\Mas_5\obj\Debug\netcoreapp3.1\Mas_5.csprojAssemblyReference.cache
