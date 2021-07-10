@@ -1,0 +1,11 @@
+C:\Users\mine-\Desktop\Study\Уник\Программы\Массивы\Ekz\Ekz\bin\Debug\netcoreapp3.1\Ekz.exe
+C:\Users\mine-\Desktop\Study\Уник\Программы\Массивы\Ekz\Ekz\bin\Debug\netcoreapp3.1\Ekz.deps.json
+C:\Users\mine-\Desktop\Study\Уник\Программы\Массивы\Ekz\Ekz\bin\Debug\netcoreapp3.1\Ekz.runtimeconfig.json
+C:\Users\mine-\Desktop\Study\Уник\Программы\Массивы\Ekz\Ekz\bin\Debug\netcoreapp3.1\Ekz.runtimeconfig.dev.json
+C:\Users\mine-\Desktop\Study\Уник\Программы\Массивы\Ekz\Ekz\bin\Debug\netcoreapp3.1\Ekz.dll
+C:\Users\mine-\Desktop\Study\Уник\Программы\Массивы\Ekz\Ekz\bin\Debug\netcoreapp3.1\Ekz.pdb
+C:\Users\mine-\Desktop\Study\Уник\Программы\Массивы\Ekz\Ekz\obj\Debug\netcoreapp3.1\Ekz.csprojAssemblyReference.cache
+C:\Users\mine-\Desktop\Study\Уник\Программы\Массивы\Ekz\Ekz\obj\Debug\netcoreapp3.1\Ekz.AssemblyInfoInputs.cache
+C:\Users\mine-\Desktop\Study\Уник\Программы\Массивы\Ekz\Ekz\obj\Debug\netcoreapp3.1\Ekz.AssemblyInfo.cs
+C:\Users\mine-\Desktop\Study\Уник\Программы\Массивы\Ekz\Ekz\obj\Debug\netcoreapp3.1\Ekz.dll
+C:\Users\mine-\Desktop\Study\Уник\Программы\Массивы\Ekz\Ekz\obj\Debug\netcoreapp3.1\Ekz.pdb
